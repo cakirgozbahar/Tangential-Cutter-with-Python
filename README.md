@@ -1,6 +1,6 @@
-# 🛠️ Tangential Cutter with Python and FDM 3D Printer
+# 🛠️ Tangential Cutter with Python 
 
-Transform a standard FDM 3D printer (Artillery Sidewinder X2) into a **tangential cutting machine** using Python and DXF-based G-code generation.
+Transform a standard FDM 3D printer (Artillery Sidewinder X2) into a **tangential cutting machine** using Python.
 
 ## 📌 Project Overview
 
